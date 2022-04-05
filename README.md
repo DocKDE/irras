@@ -13,3 +13,5 @@ Features:
 - Variable number of points for calculated spectra
 - Displaying x-, y- and z-polarized components of calculated spectra
 - Saving plot to file
+
+![IRRAS example usage](/examples/example.png)
